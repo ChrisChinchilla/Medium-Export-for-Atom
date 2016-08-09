@@ -3,8 +3,7 @@
   "main": "./lib/medium-export",
   "version": "0.0.1",
   "description": "Exports your Markdown posts to Medium",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "medium-export:export"
   },
@@ -14,5 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "medium-sdk": "0.0.3"
   }
 }
