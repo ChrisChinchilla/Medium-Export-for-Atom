@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "medium-export:export"
   },
-  "repository": "https://github.com/chrischinchilla/medium-export",
+  "repository": "https://github.com/chrischinchilla/medium-export-for-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
