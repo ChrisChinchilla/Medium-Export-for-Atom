@@ -10,6 +10,7 @@ This is an early beta, so there might be some problems, please feel free to open
 
 ## Road Map
 
+- [ ] Remove boilerplate code
 - [ ] Also handle HTML files
 - [ ] Images (Probably works with images hosted elsewhere)
 - [ ] Tests
