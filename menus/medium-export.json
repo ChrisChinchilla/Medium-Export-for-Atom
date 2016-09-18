@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Export to Medium",
+        "command": "medium-export:export"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "medium-export",
+          "submenu": [
+            {
+              "label": "Export",
+              "command": "medium-export:export"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
