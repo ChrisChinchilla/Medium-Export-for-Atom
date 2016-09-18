@@ -1,7 +1,7 @@
 {
   "name": "medium-export",
   "main": "./lib/medium-export",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Exports your Markdown posts to Medium",
   "keywords": [],
   "activationCommands": {
