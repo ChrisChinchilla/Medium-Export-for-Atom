@@ -18,3 +18,4 @@ This is an early beta, so there might be some problems, please feel free to open
 - [ ] Error handle
 - [ ] Display a popup with resulting post link
 - [ ] Allow for more configuration of posts
+- [ ] Updates to posts
