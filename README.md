@@ -1,5 +1,7 @@
 # Medium Export
 
+**I have depreciated this project in favour of [atom-medium-upload](https://github.com/ericadamski/atom-medium-upload) which I will also help maintain. It's a better package, but you will need to resetup your Medium account. See you there!**
+
 Export your Markdown files to Medium, simple.
 
 At the moment the plugin will export your markdown files to Medium, it uses the first level 1 heading as a post title, and assume that it is correctly formatted.
